@@ -6,6 +6,7 @@ hostName = "localhost"
 serverPort = 8080
 
 
+
 class ContactServer(BaseHTTPRequestHandler):
     """
     Класс для обработки входящих HTTP-запросов
